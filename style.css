@@ -1330,3 +1330,8 @@ color: #757575;
 
 
 }
+
+.container{
+   display: flex; 
+   font-display: inherit;
+}
