@@ -1327,11 +1327,13 @@ letter-spacing: 0.03em;
 
 color: #757575;
 
-
-
 }
 
 .container{
    display: flex; 
    font-display: inherit;
+}
+
+.link{
+    text-decoration: none;
 }
